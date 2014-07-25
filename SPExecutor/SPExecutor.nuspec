@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>jtarquino</authors>
+    <owners>jtarquino</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Useful class to call stored procedures and SQL functions. You can pass an c# object and the classes will take care to map the object to the SP's or Function parameters.</description>
+    
+    <copyright>Copyright 2013</copyright>
+    <tags></tags>
+  </metadata>
+</package>
